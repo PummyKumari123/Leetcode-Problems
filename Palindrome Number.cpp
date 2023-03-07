@@ -12,5 +12,6 @@ public:
             x/=10;
         }
         return (copy_x == rev); 
+        
     }
 };
